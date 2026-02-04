@@ -29,9 +29,10 @@ It focuses on how SIEM platforms collect, correlate, and analyse logs to detect 
 
 ## Screenshot Proof
 
-![Introduction to SIEM Completion](screenshots/introduction-to-siem.png)
-![Introduction to SIEM Completion](screenshots/introduction-to-siem.png)
-![Introduction to SIEM Completion](screenshots/introduction-to-siem.png)
+![SIEM](SIEM.png)
+![second](second.png)
+![supsicious](suspicious.png)
+
 
 
 
